@@ -1,0 +1,268 @@
+.subscribe-button{
+    background-color: rgb(152, 3, 3);
+    color: white;
+    border: none;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 16px;
+    padding-right: 16px;
+    border-radius: 2px;
+    cursor: pointer;
+    margin-right: 8px;
+    vertical-align: top;
+  }
+    .join-button{
+    background-color: white;
+    border-color: blue;
+    color: blue;
+    height: 36px;
+    width: 70px;
+    border-radius: 2px;
+    cursor: pointer;
+    border-width: 1px;
+    border-style: solid;
+    margin-right: 8px;
+    }
+
+    .tweet-button{
+      background-color: rgb(72, 161, 216);
+      color: white;
+      border: none;
+      height: 36px;
+      width: 70px;
+      border-radius: 18px;
+      font-weight: bold;
+      font-size:15px;
+      cursor: pointer;
+      vertical-align: top;
+    }
+    .head{
+      font-size: 10px;
+      color: rgb(96, 96, 96);
+      font-family: arial;
+      margin-bottom: 4px;
+    }
+    .tc{
+      color: rgb(96, 96, 96);
+      font-family: arial;
+      font-size: 10px;
+    }
+    .constant{
+      background-color: rgb(41, 130, 212);
+      color: white;
+      padding-left:80px ;
+      padding-right: 80px;
+      padding-top: 6px;
+      padding-bottom: 6px;
+      border: none;
+      border-radius: 16px;
+    }
+    .c1{
+      width: 50px;
+      height: 50px;
+      border-radius: 25px;
+      margin-left: 15px;
+      object-fit: cover;
+      vertical-align: middle;
+    }
+    .text-box{
+      font-size: 18px;
+      border: none;
+      width: 300px;
+      vertical-align: middle;
+    }
+    .tweet1{
+      background-color: rgb(28, 130, 194);
+      color: white;
+      border: none;
+      font-size: 18px;
+      border-radius: 18px;
+      padding-left: 18px;
+      padding-bottom: 6px;
+      padding-right: 18px;
+      padding-top: 6px;
+      vertical-align: middle;
+    }
+    .e1{
+ box-shadow: 0 0 6px rgba(0, 0, 0, 0.3);
+  padding-top: 12px;
+  padding-bottom: 12px;
+  padding-left: 12px;
+  padding-right: 12px;
+  width: 460px;
+  border-radius: 6px;
+  margin-top: 20px;
+ }
+ .e2{
+ background-color: rgb(47, 42, 42);
+  padding-top: 12px;
+  padding-bottom: 12px;
+  padding-left: 12px;
+  padding-right: 6px;
+  width: 330px;
+  border-radius: 0px;
+  margin-top: 20px;
+ }
+ .t1{
+  color: white;
+  font-family: arial;
+  font-size: 18px;
+ }
+ .t2{
+  color: rgb(154, 154, 154);
+  font-family: arial;
+  font-size: 14px;
+ }
+ .e3{
+  width: 200px;
+  margin-top: 20px;
+  box-shadow: 0 0 6px rgba(0, 0, 0, 0.3);
+  padding-top: 12px;
+  padding-bottom: 12px;
+  padding-left: 12px;
+  padding-right: 12px;
+  border-radius: 6px;
+  margin-top: 20px;
+  margin-left: 20px;
+  display: inline-block;
+
+ }
+ .e4{
+  width: 200px;
+  margin-top: 20px;
+  box-shadow: 0 0 6px rgba(0, 0, 0, 0.3);
+  padding-top: 12px;
+  padding-bottom: 12px;
+  padding-left: 12px;
+  padding-right: 12px;
+  border-radius: 6px;
+  margin-top: 20px;
+  margin-left: 20px;
+  display: inline-block;
+
+ }.e5{
+  width: 200px;
+  margin-top: 20px;
+  box-shadow: 0 0 6px rgba(0, 0, 0, 0.3);
+  padding-top: 12px;
+  padding-bottom: 12px;
+  padding-left: 12px;
+  padding-right: 12px;
+  border-radius: 6px;
+  margin-top: 20px;
+  margin-left: 20px;
+  display: inline-block;
+
+ }
+ .c2{
+  width: 200px;
+  height: 200px;
+ }
+ .r1{
+  font-family: arial;
+  margin-bottom: 6px;
+ }
+ .r2{
+  font-family: arial;
+  color: rgb(96, 96, 96);
+  margin-bottom: 6px;
+  margin-top: 0px;
+ }
+ .add-friend{
+  background-color: rgb(68, 114, 195);
+  font-size: 16px;
+  color: white;
+  border: none;
+  border-radius: 4px;
+  padding-left: 14px;
+  padding-right: 14px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  margin-top: 0px;
+ }
+ .e6{
+  width: 780px;
+  height: 380px;
+  margin-top: 20px;
+  box-shadow: 0 0 6px rgba(0, 0, 0, 0.3);
+  padding-top: 12px;
+  padding-bottom: 12px;
+  padding-left: 12px;
+  padding-right: 12px;
+  border-radius: 6px;
+  margin-top: 20px;
+  margin-left: 20px;
+ }
+
+ /*.e3{
+  margin-top: 20px;
+  box-shadow: 0 0 6px rgba(0, 0, 0, 0.3);
+  padding-top: 12px;
+  padding-bottom: 12px;
+  padding-left: 12px;
+  padding-right: 12px;
+  border-radius: 6px;
+  margin-top: 20px;
+  margin-left: 20px;
+
+ }
+ .e4{
+  margin-top: 20px;
+  box-shadow: 0 0 6px rgba(0, 0, 0, 0.3);
+  padding-top: 12px;
+  padding-bottom: 12px;
+  padding-left: 12px;
+  padding-right: 12px;
+  border-radius: 6px;
+  margin-top: 20px;
+  margin-left: 20px;
+
+ }.e5{
+  margin-top: 20px;
+  box-shadow: 0 0 6px rgba(0, 0, 0, 0.3);
+  padding-top: 12px;
+  padding-bottom: 12px;
+  padding-left: 12px;
+  padding-right: 12px;
+  border-radius: 6px;
+  margin-top: 20px;
+  margin-left: 20px;
+ }
+ .c2{
+  width: 200px;
+  height: 200px;
+ }
+ .r1{
+  font-family: arial;
+  margin-bottom: 6px;
+ }
+ .r2{
+  font-family: arial;
+  color: rgb(96, 96, 96);
+  margin-bottom: 6px;
+  margin-top: 0px;
+ }
+ .add-friend{
+  background-color: rgb(68, 114, 195);
+  font-size: 16px;
+  color: white;
+  border: none;
+  border-radius: 4px;
+  padding-left: 14px;
+  padding-right: 14px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  margin-top: 0px;
+ }
+ .e6{
+  width: 730px;
+  height: 380px;
+  margin-top: 20px;
+  box-shadow: 0 0 6px rgba(0, 0, 0, 0.3);
+  padding-top: 12px;
+  padding-bottom: 32px;
+  padding-left: 12px;
+  padding-right: 12px;
+  border-radius: 6px;
+  margin-top: 20px;
+  margin-left: 20px;}*/

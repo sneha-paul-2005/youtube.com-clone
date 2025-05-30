@@ -1,0 +1,52 @@
+*/
+body {
+  font-family: Arial, sans-serif;
+  background-color: #111;
+  color: white;
+  padding: 20px;
+}
+
+h2 {
+  margin-bottom: 20px;
+}
+
+.video-list {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}
+
+.video-item {
+  display: flex;
+  gap: 15px;
+  background-color: #1a1a1a;
+  padding: 10px;
+  border-radius: 8px;
+}
+
+.video-item img {
+  width: 160px;
+  height: 90px;
+  object-fit: cover;
+  border-radius: 4px;
+}
+
+.video-info {
+  flex-grow: 1;
+}
+
+.video-info h3 {
+  margin: 0;
+  font-size: 16px;
+  color: #fff;
+}
+
+.channel {
+  color: #aaa;
+  font-size: 14px;
+}
+
+.meta {
+  color: #777;
+  font-size: 13px;
+}

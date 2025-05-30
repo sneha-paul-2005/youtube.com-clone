@@ -1,0 +1,181 @@
+.back-button{
+    padding-top: 8px;
+    padding-bottom: 8px;
+    margin-right: 8px;
+    font-size: 16px;
+
+  }
+  a{
+    margin-right: 8px; 
+  }
+  .next-button{
+    padding-top: 8px;
+    padding-bottom:8px;
+    font-size: 16px;
+
+  }
+  .stretch-button{
+    background-color: rgb(24, 131, 27);
+    color: white;
+    border: none;
+    cursor: pointer;
+    transition: padding-top 0.15s ,
+    padding-bottom 0.15s,
+    padding-left 0.15s,
+    padding-right 0.15s;
+  }
+  .stretch-button:hover{
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 16px;
+    padding-right: 16px;
+  }
+
+  .shadow-button{
+    background-color: rgb(24, 131, 27);
+    color: white;
+    border: none;
+    cursor: pointer;
+    transition: box-shadow 0.15s;
+  }
+  .shadow-button:hover{
+   box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.55);
+  }
+  .one-button{
+    background-color: rgb(24, 131, 27);
+    color: white;
+    border: none;
+    cursor: pointer;
+    padding-top :4px;
+    padding-bottom:4px;
+    padding-left:5px ;
+    padding-right: 5px;
+  }
+  .two-button{
+    background-color: rgb(24, 131, 27);
+    color: white;
+    border: none;
+    cursor: pointer;
+    padding-top :4px;
+    padding-bottom:4px;
+    padding-left:5px ;
+    padding-right: 5px;
+    margin-left: 8px;
+  }
+  .three-button{
+    background-color: rgb(24, 131, 27);
+    color: white;
+    border: none;
+    cursor: pointer;
+    padding-top :4px;
+    padding-bottom:4px;
+    padding-left:5px ;
+    padding-right: 5px;
+    margin-left:8px ;
+  }
+  .tahoma{
+    font-family: tahoma;
+    font-weight: bold;
+  }
+.verdana{
+  font-family: verdana;
+  font-size:18px;
+  font-weight: bold;
+  margin-bottom: 4px;
+}
+.video-stats{
+color: rgb(96, 96, 96);
+font-family: verdana;
+font-size: 14px;
+margin-top: 0;
+margin-bottom: 18px;
+}
+.video-des{
+  font-family: verdana;
+  font-size: 14px;
+  width: 260px;
+  margin-top: 0;
+}
+.get-started{
+  background-color: green;
+  color: white;
+  padding-top: 6px;
+  padding-bottom: 6px;
+  border: none;
+  border-radius: 2px;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+.shop-center{
+  font-family: arial;
+  font-size: 26px;
+  text-align: center;
+  font-weight: bold;
+  margin-bottom: 0px;
+}
+.promot{
+  font-family: Arial;
+  font-size: 14px;
+  text-align: center;
+  font-weight:300;
+
+}
+.learn-more-link{
+ color: rgb(0, 132, 255);
+ font-family: arial;
+ font-size: 12px;
+ text-align: center;
+}
+.p1{
+  font-family: arial;
+  margin-bottom: 4px;
+}
+.f2{
+  font-size: 22px;
+  font-weight: bold;
+}
+.f1{
+  color: rgb(96, 96, 96);
+  font-size: 14px;
+  margin-left: 8px;
+}
+.p2{
+  color: green;
+margin-top: 0px;
+margin-bottom: 6px;
+}
+.p3{
+  margin-top: 0px;
+}
+.f3{
+  color:rgb(96, 96, 96) ; 
+}
+.f4{
+  color: rgb(178, 19, 19);
+}
+.p4{
+font-family: arial;
+margin-bottom: 4px;
+}
+.f5{
+font-weight: bold;
+}
+.f6{
+  color:rgb(96, 96, 96) ;
+}
+.p5{
+  margin-top: 0px;
+  font-family: arial;
+}
+.p6{
+  font-family: arial;
+}
+.f7{
+  color: rgb(45, 131, 165);
+}
+.c1{
+  width: 200px;
+  height: 200px;
+  margin-top: 20px;
+  border-radius: 100px;
+}
